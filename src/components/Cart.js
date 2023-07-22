@@ -42,9 +42,9 @@ const Cart = () => {
                           ))}
      
                       </Form.Control>
-                      <Button variant="light">
+                      <Button className="cartDel" variant="light">
                       
-                       <span className="cartDel"><AiTwotoneDelete title="Delete" className="deletebtn1" onClick={(() => dispatch({
+                       <span ><AiTwotoneDelete title="Delete" className="deletebtn1" onClick={(() => dispatch({
                         type: "REMOVE_FROM_CART",
                         payload: prod
                       }))}/></span> 

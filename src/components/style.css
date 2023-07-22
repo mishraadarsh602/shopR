@@ -272,7 +272,7 @@ footer{
 }
 
 .footer-bottom{
-  background: #000;
+  background: #111;
  
  
 padding-bottom: 40px;
@@ -327,9 +327,7 @@ color: #27bcda;
       margin: 5px;
     }
   
-    .filters > span {
-      font-size: 10px;
-    }
+  
   
     .title {
       font-size: 18px !important;
