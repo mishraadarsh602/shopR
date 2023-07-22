@@ -16,7 +16,7 @@ const Footer = () => {
             </ul>
         </div>
         <div className="footer-bottom">
-            <p>copyright &copy; Adarsh Mishra - MERN Developer  </p>
+            <p>copyright &copy; Adarsh Mishra - MERN Developer ❤️ Follow Me <a target="_blank" rel='noreferrer' href="https://www.linkedin.com/in/adarsh-mishra-aba8801ab/"><i className="fa fa-linkedin-square"></i></a> </p>
                     <div className="footer-menu">
                       <ul className="f-menu">
                         <li>Home</li>
